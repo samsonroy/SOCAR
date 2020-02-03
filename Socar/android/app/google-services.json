@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "397991860070",
+    "firebase_url": "https://socar-ba65a.firebaseio.com",
+    "project_id": "socar-ba65a",
+    "storage_bucket": "socar-ba65a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:397991860070:android:9476af9586961423389aa7",
+        "android_client_info": {
+          "package_name": "com.socar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "397991860070-triusueoemd52a5eecr70duutmuc6pql.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmMHoKKLE2E726BcgLeRvMSghylKBlOTM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "397991860070-triusueoemd52a5eecr70duutmuc6pql.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "397991860070-bhepep7prugit3u3leks4sklcfsmegla.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.Socar"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
